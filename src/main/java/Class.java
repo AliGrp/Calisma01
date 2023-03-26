@@ -10,7 +10,18 @@ public class Class {
         System.out.println("sibel");
 
 
+
+
+
+
+
+
+        System.out.println("sibel2");
+
         System.out.println("erel");
+
+
+        System.out.println("sibel3");
 
 
     }
