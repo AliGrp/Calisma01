@@ -3,6 +3,7 @@ public class Class {
         System.out.println("MERHABA");
         System.out.println("selam");
         System.out.println("slm");
+
         System.out.println("sibel");
 
 
@@ -11,6 +12,11 @@ public class Class {
 
 
 
+
         System.out.println("sibel2");
+
+        System.out.println("erel");
+
+        System.out.println("sibel3");
     }
 }
