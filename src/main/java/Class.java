@@ -3,5 +3,7 @@ public class Class {
         System.out.println("MERHABA");
         System.out.println("selam");
         System.out.println("slm");
+        System.out.println("Sefa branch ten sevgiler...");
+
     }
 }
